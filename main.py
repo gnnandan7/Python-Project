@@ -1,3 +1,5 @@
+
+#This code is belongs to Nandan under GNU license 
 import speech_recognition as sr
 import webbrowser
 import time
